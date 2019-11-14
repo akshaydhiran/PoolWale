@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549610046464",
+    "firebase_url": "https://pool-wale.firebaseio.com",
+    "project_id": "pool-wale",
+    "storage_bucket": "pool-wale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549610046464:android:64bbda74cacea2bf",
+        "android_client_info": {
+          "package_name": "com.example.poolwale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549610046464-d2lusd9kvvpe2ah9kkf9uhmhfuf1ciaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poolwale",
+            "certificate_hash": "5d2ce93805b9abbd0b083f6db817e81fd07ff859"
+          }
+        },
+        {
+          "client_id": "549610046464-m49m24un20baq1om3g7gj1v8e5ul3tad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8HrWEs3rnt5olntBre5XHtBD2-CFZPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549610046464-m49m24un20baq1om3g7gj1v8e5ul3tad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
